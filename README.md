@@ -68,3 +68,7 @@ Markoff Chaney -- 84557 views
   ```
     python logsAnalysis.py
   ```
+
+### Application code style
+
+  Passing the pycodestyle checking.
